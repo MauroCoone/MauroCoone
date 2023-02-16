@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about desinging or programming
 - 📫 How to reach me: Mauro.coone@gmail.com
 - 😄 Pronouns: Mauro Coone
+- 👨‍🏫 Programming languages: HTML, CSS, Javascript, Node.js
