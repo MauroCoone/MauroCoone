@@ -4,11 +4,11 @@ s
 #### Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at Artevelde University of Applied Sciences
-- 🌱 I’m currently learning backend, react.js
+- 🌱 I currently have an internship and am working on a project for a printer 
 - 💬 Ask me about desinging or programming
 - 📫 How to reach me: Mauro.coone@gmail.com
 - 😄 Pronouns: Mauro Coone
-- 👨‍🏫 Programming languages: HTML, CSS, Javascript, Node.js
+- 👨‍🏫 Programming languages: HTML, CSS, Javascript, Php, ....
 
 #### My strong features 
 
