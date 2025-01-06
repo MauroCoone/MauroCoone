@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a student at Artevelde University of Applied Sciences, I have a lot of experience with designing and programming websites, also editing photos and making posters is no problem for me.
-s
+I graduated from Artevelde college in programming. I have a lot of experience in designing and programming websites, also editing pictures and making posters is no problem for me.
 #### Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at Artevelde University of Applied Sciences
